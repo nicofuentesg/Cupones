@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cupones</string>
+    <string name="main_btn_consult">Consultar</string>
+    <string name="main_btn_create">Crear Cupon</string>
+    <string name="main_text_coupons">Bienvenido!!!, ingrese su cupon y a continuacion presione consultar</string>
+    <string name="main_hint_coupons">Cupón</string>
+    <string name="main_hint_description">Descripcion</string>
+    <string name="main_text_description">Cupon valido por un 10% de descuento en todos los cursos</string>
+    <string name="error_unique_code">\"El cupón ya existe\"</string>
+    <string name="error_lenght_code">\"El cupón debe contener entre 5 y 10 caracteres\"</string>
+    <string name="error_unkown_code">\"Error de la aplicación\"</string>
+    <string name="save_cupon">Se creo el cupon</string>
+    <string name="main_hint_active">Cupón Activo</string>
+    <string name="main_text_coupons_new">Cupón Disponible, Porfavor ingrese una descripción</string>
+</resources>
